@@ -13,7 +13,7 @@
   <!-- Quick Action Badges -->
   <p align="center">
     <a href="https://anasy.is-a.dev/"><img src="https://img.shields.io/badge/Live_Portfolio-anasy.is--a.dev-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
-    <a href="mailto:anasyusuf12@gmail.com"><img src="https://img.shields.io/badge/Email-anasyusuf12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:mail@anasy.is-a.dev"><img src="https://img.shields.io/badge/Email-mail%40anasy.is-a.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://wa.me/6288228342864"><img src="https://img.shields.io/badge/WhatsApp-%2B62%20882--2834--2864-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   </p>
 
