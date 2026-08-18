@@ -109,12 +109,8 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=anasysuf&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Anas's GitHub Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anasysuf&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=anasysuf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  
+ 
   <!-- Profile Views Counter -->
   <a href="https://anasy.is-a.dev/">
     <img src="https://komarev.com/ghpvc/?username=anasysuf&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
