@@ -108,21 +108,12 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=anasysuf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF&icon_color=818CF8" alt="Anas's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasysuf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+![](https://github-readme-stats.shion.dev/api?username=anasysuf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anasysuf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anasysuf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasysuf&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
-</div>
-
+---
+[![](https://komarev.com/ghpvc/?username=anasysuf&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 ### 📬 Connect With Me
