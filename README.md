@@ -106,10 +106,9 @@
 
 ---
 
-### 📊 GitHub Statistics
-
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anasysuf&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <br>
  
   <!-- Profile Views Counter -->
   <a href="https://anasy.is-a.dev/">
