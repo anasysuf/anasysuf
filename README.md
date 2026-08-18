@@ -108,8 +108,6 @@
 
 ### 📊 GitHub Statistics
 
-### 📊 GitHub Statistics
-
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=anasysuf&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Anas's GitHub Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anasysuf&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
