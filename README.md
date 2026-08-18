@@ -108,12 +108,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anasysuf&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <br>
- 
-  <!-- Profile Views Counter -->
-  <a href="https://anasy.is-a.dev/">
-    <img src="https://komarev.com/ghpvc/?username=anasysuf&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
-  </a>
 </div>
 
 ---
@@ -135,6 +129,11 @@
   &nbsp;
   <a href="https://github.com/anasysuf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@anasysuf-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br>
+  <!-- Profile Views Counter -->
+  <a href="https://anasy.is-a.dev/">
+    <img src="https://komarev.com/ghpvc/?username=anasysuf&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
