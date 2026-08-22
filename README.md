@@ -195,6 +195,7 @@ status: Open for Freelance & Full-Time opportunities
   <a href="https://github.com/anasysuf">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasysuf&theme=radical&background=121212&ring=D02020&fire=F0C020&currStreakLabel=F0C020&border=1040C0&sideLabels=F0F0F0&dates=F0F0F0" alt="GitHub Streak" />
   </a>
+  ![](https://komarev.com/ghpvc/?username=anasysuf&color=blue)
 </div>
 
 ---
@@ -218,7 +219,6 @@ status: Open for Freelance & Full-Time opportunities
   <a href="https://github.com/anasysuf" target="_blank">
     <img src="https://img.shields.io/badge/🐙_GitHub-@anasysuf-121212?style=for-the-badge&logoColor=white&labelColor=121212" alt="GitHub" />
   </a>
- <a> ![](https://komarev.com/ghpvc/?username=anasysuf&color=blue) </a>
 
 </p>
 
