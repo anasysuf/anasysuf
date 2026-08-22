@@ -218,9 +218,10 @@ status: Open for Freelance & Full-Time opportunities
   <a href="https://github.com/anasysuf" target="_blank">
     <img src="https://img.shields.io/badge/🐙_GitHub-@anasysuf-121212?style=for-the-badge&logoColor=white&labelColor=121212" alt="GitHub" />
   </a>
+ <a> ![](https://komarev.com/ghpvc/?username=anasysuf&color=blue) </a>
+
 </p>
 
-![](https://komarev.com/ghpvc/?username=anasysuf&color=blue)
 
 <div align="center">
   <br/>
