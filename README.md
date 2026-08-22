@@ -220,6 +220,8 @@ status: Open for Freelance & Full-Time opportunities
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=anasysuf&color=blue)
+
 <div align="center">
   <br/>
   <sub>© 2026 Anas Yusuf • Crafted with ❤️ in Malang ></sub>
