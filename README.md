@@ -19,11 +19,11 @@
 
 <!-- Quick Connect Buttons (Bauhaus Palette) -->
 <p align="center">
-  <a href="https://anasy.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-anasy.is--a.dev-D02020?style=for-the-badge&logoColor=white&labelColor=121212" alt="Portfolio" />
+  <a href="https://anasyusuf.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-anasyusuf.dev-D02020?style=for-the-badge&logoColor=white&labelColor=121212" alt="Portfolio" />
   </a>
-  <a href="mailto:mail@anasy.is-a.dev">
-    <img src="https://img.shields.io/badge/✉️_EMAIL-mail@anasy.is--a.dev-1040C0?style=for-the-badge&logoColor=white&labelColor=121212" alt="Email" />
+  <a href="mailto:mail@anasyusuf.dev">
+    <img src="https://img.shields.io/badge/✉️_EMAIL-mail@anasyusuf.dev-1040C0?style=for-the-badge&logoColor=white&labelColor=121212" alt="Email" />
   </a>
 </p>
 
@@ -152,7 +152,7 @@ status: Open for Freelance & Full-Time opportunities
         <code>Next.js 16</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Prisma</code> <code>NextAuth</code>
       </p>
       <p>
-        <a href="https://anasy.is-a.dev/"><b>🌐 Live Demo</b></a> • 
+        <a href="https://anasyusuf.dev.dev/"><b>🌐 Live Demo</b></a> • 
         <a href="https://github.com/anasysuf/"><b>💻 Source Code</b></a>
       </p>
     </td>
@@ -252,11 +252,11 @@ status: Open for Freelance & Full-Time opportunities
 </p>
 
 <p align="center">
-  <a href="https://anasy.is-a.dev/#contact">
-    <img src="https://img.shields.io/badge/🌐_Website-anasy.is--a.dev-D02020?style=for-the-badge&logoColor=white&labelColor=121212" alt="Website" />
+  <a href="https://anasyusuf.dev/#contact">
+    <img src="https://img.shields.io/badge/🌐_Website-anasyusuf.dev-D02020?style=for-the-badge&logoColor=white&labelColor=121212" alt="Website" />
   </a>
-  <a href="mailto:mail@anasy.is-a.dev">
-    <img src="https://img.shields.io/badge/✉️_Email-mail@anasy.is--a.dev-F0C020?style=for-the-badge&logoColor=121212&labelColor=121212" alt="Email" />
+  <a href="mailto:mail@anasyusuf.dev">
+    <img src="https://img.shields.io/badge/✉️_Email-mail@anasyusuf.dev-F0C020?style=for-the-badge&logoColor=121212&labelColor=121212" alt="Email" />
   </a>
   <a href="https://github.com/anasysuf" target="_blank">
     <img src="https://img.shields.io/badge/🐙_GitHub-@anasysuf-121212?style=for-the-badge&logoColor=white&labelColor=121212" alt="GitHub" />
