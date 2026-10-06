@@ -2,6 +2,8 @@
 
 <sub>Available for freelance & full-time opportunities</sub>
 
+### 🔴 🟦 🟡
+
 # Anas Yusuf
 
 ### Web Application Developer & Technical Lead
@@ -10,8 +12,8 @@
 *with solid architecture, robust security, and exceptional user experience.*
 
 <p>
-  <a href="https://anasyusuf.dev"><img src="https://img.shields.io/badge/anasyusuf.dev-14B8A6?style=flat&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:mail@anasyusuf.dev"><img src="https://img.shields.io/badge/Email-mail@anasyusuf.dev-0F1B2D?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://anasyusuf.dev"><img src="https://img.shields.io/badge/anasyusuf.dev-D02020?style=flat&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:mail@anasyusuf.dev"><img src="https://img.shields.io/badge/Email-mail@anasyusuf.dev-1040C0?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <sub>Malang, Indonesia</sub>
@@ -20,7 +22,7 @@
 
 ---
 
-## About
+## 🔴 About
 
 I'm a web application developer who takes projects from **concept to delivery** — on time, on scope, and on quality. I build responsive, accessible interfaces on clean full-stack architecture, with strict code review standards, solid authentication & security, and performance tuned for production.
 
@@ -28,7 +30,7 @@ I'm a web application developer who takes projects from **concept to delivery** 
 
 ---
 
-## Tech Stack
+## 🟦 Tech Stack
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -36,7 +38,7 @@ I'm a web application developer who takes projects from **concept to delivery** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-14B8A6?style=flat-square)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-121212?style=flat-square)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -44,15 +46,15 @@ I'm a web application developer who takes projects from **concept to delivery** 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0F1B2D?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-121212?style=flat-square)
 
 **Auth & Security**
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-0F1B2D?style=flat-square)
-![CSRF/XSS Protection](https://img.shields.io/badge/CSRF%2FXSS_Protection-14B8A6?style=flat-square)
-![HTTPS/TLS](https://img.shields.io/badge/HTTPS%2FTLS-0F1B2D?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-121212?style=flat-square)
+![CSRF/XSS Protection](https://img.shields.io/badge/CSRF%2FXSS_Protection-D02020?style=flat-square)
+![HTTPS/TLS](https://img.shields.io/badge/HTTPS%2FTLS-1040C0?style=flat-square)
 
 **Database**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -66,8 +68,8 @@ I'm a web application developer who takes projects from **concept to delivery** 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
 ![Vercel Analytics](https://img.shields.io/badge/Vercel_Analytics-000000?style=flat-square&logo=vercel&logoColor=white)
-![Event Tracking](https://img.shields.io/badge/Event_Tracking-0F1B2D?style=flat-square)
-![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-14B8A6?style=flat-square)
+![Event Tracking](https://img.shields.io/badge/Event_Tracking-121212?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-F0C020?style=flat-square)
 
 **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -75,15 +77,15 @@ I'm a web application developer who takes projects from **concept to delivery** 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0F1B2D?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-121212?style=flat-square)
 
 ---
 
-## Featured Projects
+## 🟡 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/anasysuf/sekitarku"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anasysuf&repo=sekitarku&bg_color=0d1117&title_color=14B8A6&text_color=c9d1d9&icon_color=14B8A6&hide_border=true" alt="Sekitarku" /></a>
-  <a href="https://github.com/anasysuf/akseskita"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anasysuf&repo=akseskita&bg_color=0d1117&title_color=14B8A6&text_color=c9d1d9&icon_color=14B8A6&hide_border=true" alt="Akseskita" /></a>
+  <a href="https://github.com/anasysuf/sekitarku"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anasysuf&repo=sekitarku&bg_color=121212&title_color=F0C020&text_color=F0F0F0&icon_color=D02020&border_color=D02020&hide_border=false" alt="Sekitarku" /></a>
+  <a href="https://github.com/anasysuf/akseskita"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anasysuf&repo=akseskita&bg_color=121212&title_color=F0C020&text_color=F0F0F0&icon_color=D02020&border_color=D02020&hide_border=false" alt="Akseskita" /></a>
 </div>
 
 <sub>↑ Open source — click a card to explore the code.</sub>
@@ -142,22 +144,22 @@ I'm a web application developer who takes projects from **concept to delivery** 
 
 ---
 
-## GitHub Stats
+## 🔴 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasysuf&show_icons=true&bg_color=0d1117&title_color=14B8A6&text_color=c9d1d9&icon_color=14B8A6&hide_border=true" alt="Anas Yusuf GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasysuf&layout=compact&bg_color=0d1117&title_color=14B8A6&text_color=c9d1d9&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anasysuf&show_icons=true&bg_color=121212&title_color=F0C020&text_color=F0F0F0&icon_color=D02020&border_color=D02020&hide_border=false" alt="Anas Yusuf GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasysuf&layout=compact&bg_color=121212&title_color=F0C020&text_color=F0F0F0&border_color=1040C0&hide_border=false" alt="Top Languages" height="165" />
 </div>
 
 ---
 
-## Contact
+## 🟦 Contact
 
 *Have a project in mind, or need a developer who delivers on time, on scope, and on quality? Let's build something great together.*
 
 <div align="center">
-  <a href="https://anasyusuf.dev"><img src="https://img.shields.io/badge/anasyusuf.dev-14B8A6?style=flat&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:mail@anasyusuf.dev"><img src="https://img.shields.io/badge/Email-mail@anasyusuf.dev-0F1B2D?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://anasyusuf.dev"><img src="https://img.shields.io/badge/anasyusuf.dev-D02020?style=flat&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:mail@anasyusuf.dev"><img src="https://img.shields.io/badge/Email-mail@anasyusuf.dev-1040C0?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <div align="center">
