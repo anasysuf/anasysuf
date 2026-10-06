@@ -81,19 +81,24 @@ I'm a web application developer who takes projects from **concept to delivery** 
 
 ## Featured Projects
 
+<div align="center">
+  <a href="https://github.com/anasysuf/sekitarku"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anasysuf&repo=sekitarku&bg_color=0d1117&title_color=14B8A6&text_color=c9d1d9&icon_color=14B8A6&hide_border=true" alt="Sekitarku" /></a>
+  <a href="https://github.com/anasysuf/akseskita"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anasysuf&repo=akseskita&bg_color=0d1117&title_color=14B8A6&text_color=c9d1d9&icon_color=14B8A6&hide_border=true" alt="Akseskita" /></a>
+</div>
+
+<sub>↑ Open source — click a card to explore the code.</sub>
+
 ### Sekitarku — Indonesia's Real-Time Environmental Monitoring & Disaster Mitigation
 > Real-time environmental monitoring & disaster mitigation platform for Indonesia. Integrates official data from BMKG, PVMBG, NASA, and Open-Meteo — air quality (AQI & PM2.5), weather, forest-fire hotspots, volcanic activity, and earthquakes across 500+ cities, fast and without latency.
 >
 > `React 19` `Vite` `Leaflet` `Recharts` `PWA`
->
-> ⭐ 20 · [Source Code](https://github.com/anasysuf/sekitarku) · MIT License
 
 ### Akseskita — All-in-One Assistive Web Suite
 > Web Accessibility Toolbar (A11y) & Interactive Visual AAC Communicator with zero dependencies. Fully bilingual (ID/EN).
 >
 > `Vanilla JavaScript (ES6+)` `Web Speech API` `Web Components` `Modular CSS3` `Rollup.js`
 >
-> [Live Demo](https://anasysuf.github.io/akseskita/) · [Source Code](https://github.com/anasysuf/akseskita)
+> [Live Demo](https://anasysuf.github.io/akseskita/)
 
 ### IT Consultech — Modern Company Profile & Tech Showcase
 > Corporate profile & tech showcase platform for enterprise-scale technology consulting firms.
